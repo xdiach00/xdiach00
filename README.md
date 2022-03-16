@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xdiach00
 - 👀 I’m interested in programming and information technologies
-- 🌱 I’m currently learning C, but i already know C#, Java, Python, Kotlin, JavaScript, PHP, Pascal, HTML+CSS(also SASS) and diffetenr types of CMS(WordPress, Joomla, Opencart)
+- 🌱 I’m currently learning NASM, but i already know C/C++ C#, Java, Python, Kotlin (+JetpackCompose), JavaScript, PHP, Pascal, HTML+CSS(also SASS) and diffetenr types of CMS(WordPress, Joomla, Opencart)
 - 📫 michal.diachenko@gmail.com
 
 <!---
