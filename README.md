@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xdiach00
-- 👀 I’m interested in programming and information technologies
+- 👀 Android Developer in Synetech s.r.o and student in the Brno University of Technologies
 - 🌱 I’m currently learning NASM, but I already know C/C++, C#, Java, Python, Kotlin(+JetpackCompose), JavaScript(+Vue.js), PHP, Pascal, HTML+CSS(also SASS) and different types of CMS(WordPress, Joomla, Opencart)
 - 📫 michal.diachenko@gmail.com
 
