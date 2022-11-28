@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @xdiach00
 - 👀 Android Developer in [MeguMethod](https://www.megumethod.com/) and student in the [Brno University of Technologies](https://www.fit.vut.cz/.en)
-- 🌱 My tech stack: C/C++, C#, Java, Python, Kotlin(+JetpackCompose), JavaScript(+Vue.js), PHP, Pascal, Assembly(NASM), HTML+CSS(also SASS) and different types of CMS(WordPress, Joomla, Opencart)
+- 🌱 My tech stack: Kotlin(+JetpackCompose, Coroutines), C/C++, C#, Java, Python, JavaScript(+Vue.js), PHP, Pascal, Assembly(NASM), HTML+CSS(also SASS) and different types of CMS(WordPress, Joomla, Opencart)
 - 📫 michal.diachenko@gmail.com
