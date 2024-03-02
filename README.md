@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Android Engineer
 ----------------
 
-Developer with over 1.5 years of professional experience and more than 5 years of developing experience at all. My frist Android project was a Mobile virtual assistant, which we made with a group of friends in 2016. It was written in Java. Time passed, technology progressed, and I progressed along with them.
+Developer with over 2 years of professional experience and more than 5 years of developing experience at all. My frist Android project was a Mobile virtual assistant, which we made with a group of friends in 2016. It was written in Java. Time passed, technology progressed, and I progressed along with them.
 
 * 🌍  I'm based in Brno, Czechia
 * 🖥️  Android Engineer at [MeguMethod](http://www.megumethod.com/)
